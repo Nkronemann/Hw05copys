@@ -1,3 +1,6 @@
+#include <iostream>
+using namespace std;
+
 int Sum(int *p,int r,int c) {
     int j, k, sum = 0;
     for(j=0;j<r;++j) {

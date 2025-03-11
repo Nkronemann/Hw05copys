@@ -1,3 +1,6 @@
+#include <iostream>
+using namespace std;
+
 int Sum(int *A[], int r) {
 
     int j, k, sum = 0;
